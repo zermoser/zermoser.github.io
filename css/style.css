@@ -20246,3 +20246,9 @@ disabled look for disabled choices in the results dropdown
 .slide-boder {
 	border-style: groove;
 }
+
+@media (max-width: 992px) {
+	.frame-cool {
+		border: solid 1.2px #878787;
+	}
+}
