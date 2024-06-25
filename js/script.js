@@ -1449,9 +1449,9 @@
 
 	} );
 
-	document.getElementById("resumeLinkEn").addEventListener("click", function(event){
+	document.getElementById("resumeLinkEng").addEventListener("click", function(event){
     event.preventDefault(); 
-    window.open('assets/KittipojResumeEn.pdf', '_blank');
+    window.open('assets/KittipojResumeEng.pdf', '_blank');
 	});
 
 	document.getElementById("resumeLinkTh").addEventListener("click", function(event){
