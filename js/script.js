@@ -1454,10 +1454,5 @@
     window.open('assets/KittipojResumeEng.pdf', '_blank');
 	});
 
-	document.getElementById("resumeLinkTh").addEventListener("click", function(event){
-    event.preventDefault(); 
-    window.open('assets/KittipojResumeTh.pdf', '_blank');
-	});
-
 	$('.carousel').carousel();
 }());

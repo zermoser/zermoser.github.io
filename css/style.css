@@ -574,24 +574,6 @@ a[href*='tel'], a[href*='mailto'] {
 	margin-top: 18px;
 }
 
-.box-icon-modern-3 {
-	padding-top: 46px;
-	padding-bottom: 30px;
-}
-
-.box-icon-modern-3 .box-icon-modern-decor {
-	margin-top: 18px;
-	margin-bottom: 15px;
-}
-
-.box-icon-modern-3 .box-icon-modern-text {
-	letter-spacing: .025em;
-}
-
-.box-icon-modern-3 * + .box-icon-modern-title {
-	margin-top: 28px;
-}
-
 .box-icon-modern-custom {
 	display: flex;
 	justify-content: center;
