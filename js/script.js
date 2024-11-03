@@ -1451,7 +1451,7 @@
 
 	document.getElementById("resumeLinkEng").addEventListener("click", function(event){
     event.preventDefault(); 
-    window.open('assets/KittipojResumeEng.pdf', '_blank');
+    window.open('assets/Kittipoj_Naewthavorn_Resume.pdf', '_blank');
 	});
 
 	$('.carousel').carousel();
