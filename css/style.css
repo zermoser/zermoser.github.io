@@ -20185,7 +20185,8 @@ disabled look for disabled choices in the results dropdown
 }
 
 .title-header {
-	color: #6A5ACD;
+	font-size: 15px;
+	font-weight: 700;
 }
 
 .title-link {
